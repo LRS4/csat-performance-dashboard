@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project was to create an interactive dashboard which displayed a dataset based upon telephony information (Software company's service center). This would allow insight into demand, customer insight, satisfaction and performance management information. The dataset was taken from [https://www.edx.org/course/analytics-storytelling-for-impact-2](Microsoft's Storytelling for Analytics) course as part of the Microsoft Professional Program in Data Science. The application:
+The project was to create an interactive dashboard which displayed a dataset based upon telephony information (Software company's service center). This would allow insight into demand, customer insight, satisfaction and performance management information. The dataset was taken from the Storytelling for Analytics course as part of the Microsoft Professional Program in Data Science. The application:
 
 * Allows the user to view management information
 * Filter by service center (A, B, C or D)
