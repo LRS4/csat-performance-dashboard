@@ -10,7 +10,7 @@ The project was to create an interactive dashboard which displayed a dataset bas
 * View geographic information (customer issue locations) on a map
 * Download and view the raw dataset (open data)
 
-The application can be viewed in this 2.5 minute demo: [https://www.youtube.com/watch?v=Mel7KZnWLhU](https://www.youtube.com/watch?v=Mel7KZnWLhU).
+The application can be viewed in this 3 minute demo: [https://www.youtube.com/watch?v=Mel7KZnWLhU](https://www.youtube.com/watch?v=Mel7KZnWLhU).
 
 
 ## Project Background
