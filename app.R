@@ -33,7 +33,7 @@ ui <- dashboardPage(
                radioButtons("center", "Filter by Support Center", list("Combined", "Support Center A", "Support Center B", "Support Center C", "Support Center D"))
       ),
       menuItem("Data Download", icon = icon("download",lib='glyphicon'), href = "https://github.com/benolsen5/dat248x/raw/master/SampleDataSet_CallCenter.xlsx"),
-      menuItem("App Source Code", icon = icon("code"), href = "https://github.com/benolsen5/dat248x/raw/master/SampleDataSet_CallCenter.xlsx")
+      menuItem("App Source Code", icon = icon("code"), href = "https://github.com/LRS4/csat-performance-dashboard")
     )
   ),
   
