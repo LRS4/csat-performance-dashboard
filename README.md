@@ -63,3 +63,4 @@ Search for insights asked for by your stakeholder, Shelly, and craft visual arti
 * Wrangling data using dplyr (select, filter, arrange, summarise) to populate graphs accurately
 * Future proofing the application to adapt to data source updates (real-time)
 * Rendering interactive charts effectively
+* Need to look into deployment options as free options required more memory
